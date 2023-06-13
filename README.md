@@ -2,6 +2,6 @@
 
 This was a website built to showcase my technical skills, web design skills.
 
-## Project timeline and technologies used
+## Project Timeline and Technologies Used
 
 ### Technologies Used
